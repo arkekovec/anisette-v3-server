@@ -1,4 +1,8 @@
 {
-    "name": "arkekovec",
-    "address": "https://anisette-v3-server-6ooe.onrender.com"
+    "servers": [
+        {
+            "name": "arkekovec",
+            "address": "https://anisette-v3-server-6ooe.onrender.com"
+        }
+    ]
 }
